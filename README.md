@@ -1,2 +1,4 @@
-# CoRI5.0
-Cori project RDI
+# Cori-5.0
+# ABB Rapid Editor
+
+## Overview
