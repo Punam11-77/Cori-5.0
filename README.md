@@ -1,2 +1,2 @@
-# Cori-5.0
+# CoRI5.0
 Cori project RDI
