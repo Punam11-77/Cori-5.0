@@ -58,13 +58,93 @@ The Figma design was translated into a PyQt6 desktop application.
 
 ---
 
+## Development Progress
+
+### Version 1 (main.py)
+
+Implemented:
+
+- Initial ABB Rapid Editor window
+- Rapid program panel
+- Command panel
+- Action Details panel
+- Basic styling
+
+### Version 2 (main_v2.py)
+
+Implemented:
+
+- Dynamic command description details
+- Command selection updates
+- Execute button operations
+- Popup confirmation messages
+
+### Version 3 (main_v3.py)
+
+Implemented:
+
+- Selected RAPID instructions tracking
+- Selected command tracking
+- Action details update
+- Improved font styling
+- B1 and B2 control buttons
+- Improved UI styling
+
+---
+
 ## Project Structure
 
 ```text
 CoRI-5.0
 │
+├── README.md
 ├── main.py
 ├── main_v2.py
 ├── main_v3.py
-├── README.md
-└── screenshots/
+│
+└── screenshots
+├── figma_wireframe.png
+└── ui_v3.png
+```
+
+---
+
+## User Interface Screenshots
+
+### Figma WireFrame
+<img width="1005" height="754" alt="image" src="https://github.com/user-attachments/assets/5c49a099-db28-4032-8503-2a7c7b6c405b" />
+
+### Current PyQt6 Implementation
+<img width="1889" height="986" alt="UI_v3" src="https://github.com/user-attachments/assets/65073d30-4d55-4270-8d95-742b04f74a46" />
+
+---
+
+## Technologies Used
+
+- Python 3
+- PyQt6
+- Figma
+
+---
+
+## Future Improvements
+
+Planned improvement include:
+
+- Functional B1 navigation
+- Function B2 navigation
+- Hover-based interactions
+- RAPID file import and export
+- ABB-inspired industrial theme
+- Robot communication integration
+- Additional command management features
+
+---
+
+### Current Stable Version
+
+main_v3.py
+
+
+
+
