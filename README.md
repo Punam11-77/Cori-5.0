@@ -111,10 +111,12 @@ CoRI-5.0
 ├── main.py
 ├── main_v2.py
 ├── main_v3.py
+├── main_v4.py
 │
 └── screenshots
 ├── figma_wireframe.png
 └── ui_v3.png
+└── ui_v4.png
 ```
 
 ---
