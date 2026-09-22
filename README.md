@@ -90,6 +90,16 @@ Implemented:
 - B1 and B2 control buttons
 - Improved UI styling
 
+### Version 4 (main_v4.py)
+
+Implemented:
+
+- introduces interactive navigation controls
+- B1 buttons now navigate the RAPID Program list
+- B2 buttons navigate the Command list
+- Action Details update dynamically according to the selected RAPID instruction and command
+- Hover effects were added to improve usability
+
 ---
 
 ## Project Structure
@@ -117,6 +127,9 @@ CoRI-5.0
 ### Current PyQt6 Implementation
 <img width="1889" height="986" alt="UI_v3" src="https://github.com/user-attachments/assets/65073d30-4d55-4270-8d95-742b04f74a46" />
 
+### Upgraded implementation
+<img width="1896" height="968" alt="Näyttökuva 2026-09-22 134304" src="https://github.com/user-attachments/assets/cd3c4c83-6002-4780-91b7-2934182f6c62" />
+
 ---
 
 ## Technologies Used
@@ -133,17 +146,19 @@ Planned improvement include:
 
 - Functional B1 navigation
 - Function B2 navigation
+- Insert and delete instruction functionality
+- Program export support
 - Hover-based interactions
 - RAPID file import and export
 - ABB-inspired industrial theme
 - Robot communication integration
-- Additional command management features
+- Advanced command management features
 
 ---
 
 ### Current Stable Version
 
-main_v3.py
+main_v4.py
 
 
 
