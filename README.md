@@ -133,6 +133,10 @@ CoRI-5.0
 ### Upgraded implementation
 <img width="1896" height="968" alt="Näyttökuva 2026-09-22 134304" src="https://github.com/user-attachments/assets/cd3c4c83-6002-4780-91b7-2934182f6c62" />
 
+### Feedback improvement
+<img width="1765" height="988" alt="image" src="https://github.com/user-attachments/assets/a715a108-f94a-4131-a5b3-e40c8e21922a" />
+
+
 ---
 
 ## Technologies Used
