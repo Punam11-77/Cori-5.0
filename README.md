@@ -114,7 +114,7 @@ CoRI-5.0
 ├── main_v4.py
 ├── main_v5.p
 ├── main_v6.py
-├── main_v7.p
+├── main_v7.py
 └── screenshots
 
 ├── figma_wireframe.png
@@ -138,10 +138,10 @@ CoRI-5.0
 ### Feedback improvement
 <img width="1765" height="988" alt="image" src="https://github.com/user-attachments/assets/a715a108-f94a-4131-a5b3-e40c8e21922a" />
 
-### design improvement
+### design improvement ( Version 7 )
 <img width="1723" height="996" alt="image" src="https://github.com/user-attachments/assets/924c1cbd-aa2d-49d3-b259-e0ba2fe757c1" />
 
-## Version 7 introduces a workflow-based user interface. Instead of directly executing commands, the user is guided through RAPID selection, command selection, action selection, and confirmation stages. This reduces operator error and provides a clearer interaction model suitable for ABB robot programming environments.
+Version 7 introduces a workflow-based user interface. Instead of directly executing commands, the user is guided through RAPID selection, command selection, action selection, and confirmation stages. This reduces operator error and provides a clearer interaction model suitable for ABB robot programming environments.
 
 
 ---
